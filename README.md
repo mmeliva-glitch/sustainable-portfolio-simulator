@@ -1,5 +1,11 @@
 # Sustainable Multi-Asset Portfolio Simulator
 
+## Live Demo
+
+The Streamlit dashboard is available here:
+
+[Open the Sustainable Portfolio Simulator](https://sustainable-portfolio-simulator-b5g9uwdqjhymbutm5sfcic.streamlit.app/))
+
 ## Project Overview
 
 This project is a sustainable investment and portfolio management simulator.  

@@ -4,7 +4,7 @@
 
 The Streamlit dashboard is available here:
 
-[Open the Sustainable Portfolio Simulator](https://sustainable-portfolio-simulator-b5g9uwdqjhymbutm5sfcic.streamlit.app/))
+[Open the Sustainable Portfolio Simulator](https://sustainable-portfolio-simulator-b5g9uwdqjhymbutm5sfcic.streamlit.app/)
 
 ## Project Overview
 
